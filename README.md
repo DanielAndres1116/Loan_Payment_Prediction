@@ -42,18 +42,18 @@ Overall, the script goes through the steps of loading and preprocessing the data
 
 We’ll see certain histograms created to analyze the information presented in the dataset and the potential features that can be useful to predict the mentioned target. These are histogram plots with multiple facets, also known as a faceted histogram. The histograms are split by the “Gender” column and the “loan_status” column is used to color code the bars in the histograms.
 
-![image](https://user-images.githubusercontent.com/43154438/229928018-c6b84a74-f2d6-4405-a800-631018075390.png)
+![image](https://user-images.githubusercontent.com/43154438/229928399-6d5f5ced-9cb8-4148-a418-f3430e6b6859.png)
 
 Figure 1: 
 
-![image](https://user-images.githubusercontent.com/43154438/229928095-f8b50fe6-62c0-4418-9210-448422f79c61.png)
+![image](https://user-images.githubusercontent.com/43154438/229928421-a8c1d2bc-84af-46da-9bc7-0c5c78757eed.png)
 
 Figure 2: 
 
-![image](https://user-images.githubusercontent.com/43154438/229928161-88823c86-e201-467f-b29c-dfbd79e21c8f.png)
+![image](https://user-images.githubusercontent.com/43154438/229928446-cf0712a1-39b8-45f4-add9-7a9ec77c27f2.png)
 
 Figure 3: 
 
-![image](https://user-images.githubusercontent.com/43154438/229928199-98fdcf31-8b20-4139-8062-2b5baeff7ae7.png)
+![image](https://user-images.githubusercontent.com/43154438/229928483-d30a2e19-8312-446c-8198-77071ef67073.png)
 
 Figure 4: 
