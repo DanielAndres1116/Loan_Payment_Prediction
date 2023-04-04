@@ -44,16 +44,16 @@ We’ll see certain histograms created to analyze the information presented in t
 
 ![image](https://user-images.githubusercontent.com/43154438/229928399-6d5f5ced-9cb8-4148-a418-f3430e6b6859.png)
 
-Figure 1: 
+Figure 1: number of people who paid their debts and who are currently being collected. Stacked by gender.
 
 ![image](https://user-images.githubusercontent.com/43154438/229928421-a8c1d2bc-84af-46da-9bc7-0c5c78757eed.png)
 
-Figure 2: 
+Figure 2: number of people who paid their debts and who are currently charged given their age. Stacked by gender.
 
 ![image](https://user-images.githubusercontent.com/43154438/229928446-cf0712a1-39b8-45f4-add9-7a9ec77c27f2.png)
 
-Figure 3: 
+Figure 3: number of people who paid their debts and who are currently charged given the day of the week they made the loan. Stacked by gender.
 
 ![image](https://user-images.githubusercontent.com/43154438/229928483-d30a2e19-8312-446c-8198-77071ef67073.png)
 
-Figure 4: 
+Figure 4: reporting the accuracy of the built model using different evaluation metrics.
